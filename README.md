@@ -6,6 +6,6 @@ Just a basic app to look for users on GH. It displays the basic of the user foun
 * Vanilla JavaScript (OOP ES6)
 * Bootswatch <- Free Bootstrap themes
 
-Live Version at: 
+Live Version at: https://rcart.github.io/gh-search-users/
 
 TODO: Review the code and fix some GRID layout issues.
